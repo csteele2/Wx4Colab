@@ -1,0 +1,8 @@
+
+.DS_Store
+*.png
+nbm/
+obs/
+lsr*
+*.csv
+Font_Awesome*
